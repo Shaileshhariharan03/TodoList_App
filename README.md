@@ -12,9 +12,9 @@ This is a simple Todo List app built using SwiftUI. The app allows users to crea
 
 
 ## Screenshots 📱
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-02 at 22 31 01](https://github.com/user-attachments/assets/33e73cbf-3d63-4c0b-89e0-bcbdaa714960)
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-02 at 22 31 07](https://github.com/user-attachments/assets/6fa46618-875b-4f35-8d22-6938508fb5ea)
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-02 at 22 31 19](https://github.com/user-attachments/assets/1ff649fe-3e71-4474-87fa-32787aa3bc11)
+<img src="https://github.com/user-attachments/assets/33e73cbf-3d63-4c0b-89e0-bcbdaa714960" width=200>
+<img src="https://github.com/user-attachments/assets/f615f71d-a81e-4edd-878f-43f9dc78e854" width=200>
+<img src="https://github.com/user-attachments/assets/1ff649fe-3e71-4474-87fa-32787aa3bc11" width=200>
 
 ## Requirements 📋
 
@@ -72,16 +72,12 @@ func updateItem(item: ItemModel) {
 
 Contributions are welcome! If you find any bugs or want to add a new feature, feel free to open an issue or create a pull request.
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact 📧
 
 Feel free to reach out if you have any questions or suggestions:
 
 - Email: hariharanshailesh@gmail.com
-- GitHub: [yourusername](https://github.com/Shaileshhariharan03)
+- GitHub: [Shaileshhariharan03](https://github.com/Shaileshhariharan03)
 
 
 ### Key Sections:
@@ -95,5 +91,3 @@ Feel free to reach out if you have any questions or suggestions:
 - **How It Works**: Explanation of how the main components interact.
 - **Code Snippets**: Examples of key parts of the code.
 - **Contributing**: Instructions on how others can contribute to the project.
-- **License**: Licensing information.
-- **Contact**: Your contact information.
