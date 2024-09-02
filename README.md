@@ -10,9 +10,11 @@ This is a simple Todo List app built using SwiftUI. The app allows users to crea
 - **Delete Tasks**: Swipe to delete tasks.
 - **Simple UI**: Clean and minimalistic design using SwiftUI.
 
-## Screenshots 📱
 
-![Todo List Screenshot](link-to-screenshot)
+## Screenshots 📱
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-02 at 22 31 01](https://github.com/user-attachments/assets/33e73cbf-3d63-4c0b-89e0-bcbdaa714960)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-02 at 22 31 07](https://github.com/user-attachments/assets/6fa46618-875b-4f35-8d22-6938508fb5ea)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-02 at 22 31 19](https://github.com/user-attachments/assets/1ff649fe-3e71-4474-87fa-32787aa3bc11)
 
 ## Requirements 📋
 
@@ -23,7 +25,7 @@ This is a simple Todo List app built using SwiftUI. The app allows users to crea
 ## Installation 🛠️
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/todolist-swiftui.git
+   git clone https://github.com/Shaileshhariharan03/TodoList_App.git
    
 2. Open the project in Xcode:
    bash
